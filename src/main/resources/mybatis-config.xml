@@ -9,12 +9,12 @@
 	</settings>
 
 <!-- 	<typeAliases>
-	  <package name="org.mano.dbreport.entity"/>
+	  <package name="org.mano.scsty"/>
 	</typeAliases> -->
 
 	<!-- Register all interfaces in a package as mappers -->
 <!-- 	<mappers>
-	  <package name="org.mano.dbreport.mapper"/>
+	  <package name="org.mano.scser"/>
 	</mappers> -->
 
 	<!-- Using url fully qualified paths -->
